@@ -1,0 +1,13 @@
+# Ignorer les fichiers temporaires
+*.log
+*.tmp
+
+# Ignorer le dossier "node_modules"
+node_modules/
+
+# Ignorer les fichiers de compilation Python
+__pycache__/
+#ignorer le dossier "mon dossier"
+mon_dossier/
+#ignorer le fichier "ficher.txt"
+fichier.txt
